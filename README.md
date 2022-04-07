@@ -4,7 +4,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/vvngZ6)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511968720690&text=Victor%20Ryan%2C%20here!)
 
+## About
+ I am passionate about technology, entrepreneurship, and economics. I am currently a Web Software Development student at Trybe. Being Front-End, Back-End and FullStack.
+
 ![VictorVarges GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVarges&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVarges)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Technologies I learned 👨‍💻
 <div style="display: inline-block"><br/>
@@ -23,8 +28,6 @@
 <img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div><br/>
 
-## About
- I am passionate about technology, entrepreneurship, and economics. I am currently a Web Software Development student at Trybe. Being Front-End, Back-End and FullStack.
 
  
 
