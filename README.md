@@ -7,8 +7,7 @@
 ## About
  I am passionate about technology, entrepreneurship, and economics. I am currently a Web Software Development student at Trybe. Being Front-End, Back-End and FullStack. 😄⚔️
 
-![VictorVarges GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVarges&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVarges&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![VictorVarges GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVarges&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVarges&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies I learned 👨‍💻
