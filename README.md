@@ -8,7 +8,7 @@
  I am passionate about technology, entrepreneurship, and economics. I am currently a Web Software Development student at Trybe. Being Front-End, Back-End and FullStack. 😄⚔️
 
 ![VictorVarges GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVarges&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVarges)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVarges&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies I learned 👨‍💻
@@ -26,6 +26,7 @@
 <img alt="express.js"src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img alt="Heroku"src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br/>
 
 ![Snake animation](https://github.com/VictorVarges/VictorVarges/blob/output/github-contribution-grid-snake.svg)
