@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511968720690&text=Victor%20Ryan%2C%20here!)
 
 ## About
- I am passionate about technology, entrepreneurship, and economics. I am currently a Web Software Development student at Trybe. Being Front-End, Back-End and FullStack.
+ I am passionate about technology, entrepreneurship, and economics. I am currently a Web Software Development student at Trybe. Being Front-End, Back-End and FullStack. 😄⚔️
 
 ![VictorVarges GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVarges&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVarges)](https://github.com/anuraghazra/github-readme-stats)
