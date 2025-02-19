@@ -1,11 +1,24 @@
-## Hello! I am Victor Varges 👋 
+## Olá! Olá! Meu nome é Victor Varges. Aqui você pode explorar alguns dos projetos públicos que desenvolvi. Fique à vontade para conferir! 👋 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-varges)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/vvngZ6)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511968720690&text=Victor%20Ryan%2C%20here!)
 
 ## About
- I am passionate about technology, entrepreneurship, and economics. I am currently a Web Software Development student at Trybe. Being Front-End, Back-End and FullStack. 😄⚔️
+🚀 Sobre mim
+Sou um desenvolvedor full-stack apaixonado por tecnologia e por criar soluções eficientes que impactam negócios e usuários. Tenho experiência no desenvolvimento de aplicações web, automação de processos e integração de sistemas, atuando desde a concepção da ideia até a implementação e manutenção de projetos escaláveis.
+
+Minha trajetória inclui o desenvolvimento de plataformas para e-commerce e marketplaces, onde trabalhei com integração de APIs, processamento de dados, criação de dashboards e otimização de fluxos de pedidos. Além disso, sempre busco aprimorar a qualidade do código e a confiabilidade das aplicações, utilizando testes automatizados e metodologias ágeis como Scrum e Kanban.
+
+💡 Habilidades
+Atuo tanto no front-end quanto no back-end, adaptando minha stack conforme a necessidade do projeto. Já trabalhei com:
+
+✔ Front-end: JavaScript, React.js, Angular, Bootstrap, HTML, CSS, Redux, Context API, Jest
+✔ Back-end: Java, Node.js, Python, TypeScript, MySQL, MongoDB, Sequelize, Docker
+✔ Ferramentas & Práticas: Integração de APIs, arquitetura escalável, testes automatizados, versionamento de código (Git/GitHub), CI/CD
+
+🎯 Meu foco
+Gosto de resolver desafios e aprender novas tecnologias, por isso estou sempre aberto a atuar em diferentes áreas do desenvolvimento de software. Se você busca alguém com pensamento analítico, adaptável e comprometido com qualidade, vamos conversar! 😄⚔️
 
 ![VictorVarges GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVarges&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVarges&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
